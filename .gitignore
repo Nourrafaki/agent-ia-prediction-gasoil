@@ -1,0 +1,29 @@
+# Dependances
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# Variables d'environnement
+.env
+
+# Modeles ML (fichiers binaires lourds)
+*.pkl
+models/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build frontend
+frontend/dist/
